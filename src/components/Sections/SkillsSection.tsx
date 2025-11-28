@@ -21,7 +21,7 @@ const skills = [
     name: "Next",
   },
   { icon: <FaVuejs />, name: "Vue" },
-  { icon: <FaAngular />, name: "Vue" },
+  { icon: <FaAngular />, name: "Angular" },
 
   {
     icon: <SiTypescript />,

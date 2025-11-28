@@ -1,12 +1,12 @@
 const experiences = [
-  {
-    start: "Feb, 2025",
-    end: null,
-    companyName: "BCEPS",
-    position: "Web Developer",
-    description:
-      "I build scalable, high-performance front-end applications using Next.js, create reusable and accessible UI components, convert Figma designs into pixel-perfect interfaces, integrate REST APIs with DRF/Python, manage state with Redux Toolkit/Zustand, and ensure responsive, optimized performance—all while collaborating effectively in Agile teams.",
-  },
+  // {
+  //   start: "Feb, 2025",
+  //   end: null,
+  //   companyName: "BCEPS",
+  //   position: "Web Developer",
+  //   description:
+  //     "I build scalable, high-performance front-end applications using Next.js, create reusable and accessible UI components, convert Figma designs into pixel-perfect interfaces, integrate REST APIs with DRF/Python, manage state with Redux Toolkit/Zustand, and ensure responsive, optimized performance—all while collaborating effectively in Agile teams.",
+  // },
   {
     start: "Nov, 2022",
     end: null,
